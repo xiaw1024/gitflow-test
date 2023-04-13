@@ -17,3 +17,5 @@ class Animal {
 }
 
 let dog = new Animal('dog');
+
+let cat = new Animal('cat');
